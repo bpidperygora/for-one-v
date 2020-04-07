@@ -1,4 +1,4 @@
-#Hi. This is Test Task for One Vision
+# Hi. This is Test Task for One Vision
 
 ## To Use:
 - Take DB from root folder upload to your MySQL ...
@@ -37,7 +37,7 @@ I add custom JS (without JQuery) to make menu work. And make height of pictures 
 -
 Small custom functions to make the UX a little better
 -
-** I spend around 3 hours doing all the back work and more 3 hours to clean the front end **
+** I spend around 3 hours doing all the back-end and more 3 hours to clean the front end **
 -
 
 P.S maybe it is overload but even for me it was interesting to finish <br>
