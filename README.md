@@ -9,7 +9,7 @@ _ or if you use a local server just name it `http://for-one-v/`
 - **/wp-admin/** to login. user: **admin**, password: **admin**
 
 ## Files:
-- wp-content/themes/theme/page-templates/page-with-shortcode.php - page template (from task 4)
+- wp-content/themes/theme/page-templates/page-with-shortcode.php - (Page template from task 4)
 - wp-content/themes/theme/functions/custom-post-type.php - (Art Custom post type from task 1)
 - wp-content/themes/theme/functions/custom-shortcodes.php - (Shortcode to display Art post type from task 3)
 
