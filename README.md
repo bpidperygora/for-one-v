@@ -21,7 +21,7 @@ _ or if you use a local server just name it `http://for-one-v/`
 - param: [art post-type = "music"] - filter post by category;
 
 ---
-By default ** [art] ** use parameters:
+By default **[art]** use parameters:
 
 - 10 posts to display
 - order by DESC
