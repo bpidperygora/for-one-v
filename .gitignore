@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/wp-content/plugins/
+/wp-content/themes/theme/node_modules/
+/wp-content/themes/theme/package-lock.json
+/wp-content/themes/theme/gulp/
+/wp-content/themes/theme/package.json
+/wp-content/themes/theme/src/
+/wp-content/themes/theme/gulpfile.js
