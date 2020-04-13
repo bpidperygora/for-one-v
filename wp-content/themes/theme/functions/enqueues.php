@@ -14,7 +14,7 @@ if ( ! function_exists( 'style_and_script' ) ) {
 
 		//components
 
-		wp_register_style( 'masorny.css', get_template_directory_uri() . '/build/css/masorny.css', false, null );
+		wp_register_style( 'masorny.css', get_template_directory_uri() . '/build/css/components/masorny.css', false, null );
 
 
 		///
